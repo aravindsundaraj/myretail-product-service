@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.myretail</groupId>
-    <artifactId>ProductApplication</artifactId>
+    <artifactId>myretail-product-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Product Application</name>
+    <name>myretail-product-service</name>
     <description>Product Application for myRetail</description>
 
     <parent>
