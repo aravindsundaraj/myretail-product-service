@@ -1,0 +1,8 @@
+use products
+db.products.insert({"_id":"13860428","name":"The Big Lebowski (Blu-ray) Wide Angle","current_price":{"value":13.49,"currency_code":"USD"}})
+db.products.insert({"_id":"50513417","name":"Parkside Button Tufted Bed - Inspire Q Firm and Plush","current_price":{"value":100.00,"currency_code":"USD"}})
+db.products.insert({"_id":"15117729","name":"Test2","current_price":{"value":100.00,"currency_code":"USD"}})
+db.products.insert({"_id":"16483589","name":"Test3","current_price":{"value":299.99,"currency_code":"USD"}})
+db.products.insert({"_id":"16696652","name":"Test4","current_price":{"value":249.99,"currency_code":"USD"}})
+db.products.insert({"_id":"16752456","name":"Test5","current_price":{"value":1439.99,"currency_code":"USD"}})
+db.products.insert({"_id":"15643793","name":"Test6","current_price":{"value":40.99,"currency_code":"USD"}})
