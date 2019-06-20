@@ -1,5 +1,5 @@
-# myretail-service
-myRetail Restful Service
+# myretail-product-service
+myRetail Product Restful Service
 
 ## Technologies
 Java JDK 1.8<br>
